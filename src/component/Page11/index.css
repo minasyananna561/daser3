@@ -1,0 +1,21 @@
+.checkbox:hover{
+    border: 2px solid #00B6F0;
+    background: #FFFFFF;
+    }
+    
+    .payment-radio-btn1{
+    position: absolute;
+    width: 406px;
+    height: 64px;
+    left: 10px;
+    top: 128px;
+    background: #F3F4F5;
+    box-shadow: 0px 24px 38px 3px rgba(0, 0, 0, 0.14);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 6px;
+    display: flex;
+    }
+    input[name="gender"] {
+        accent-color: green;
+    }

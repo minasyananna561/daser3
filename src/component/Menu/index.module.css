@@ -1,0 +1,23 @@
+.menu{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+.menu ol{
+    list-style-type: none;
+    text-decoration: none;
+}
+.menu ol li{
+    text-decoration: none;
+    padding-top: 20px;
+}
+.link{
+ font-size: 18px;
+ line-height: 18px;
+ font-weight: bold;
+ color: #ece6e6;
+ list-style-type: none;
+ text-decoration: none;
+}

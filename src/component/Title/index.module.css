@@ -1,0 +1,61 @@
+
+.title{
+    width: 200px;
+    height: 50px;
+    margin: 50px;
+    border: 3px solid rgb(69, 64, 64);
+    color: brown;
+    font-size: 18px;
+    font-weight: bold;
+}
+.title:focus{
+    background: yellowgreen;
+}
+
+.dark{
+    background: blueviolet;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+.dark_last{
+    background: #eee;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.title{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    }
+    .inp{
+    margin: 10px;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px rgb(38, 38, 40);
+    }
+    .name{
+        display: flex;
+        flex-direction: row;
+        font-size: 22px;
+        font-weight: bold;
+        color: brown;
+        margin: 10px;
+    }
+    .name1{
+         width: 150px;
+        height: 30px;
+        background: white;
+    }
+    

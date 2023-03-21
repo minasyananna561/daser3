@@ -1,0 +1,42 @@
+.dark{
+    width: 100%;
+    background: rgb(226, 159, 159);
+    height: 1000vh;
+}
+.dark_last{
+    width: 100%;
+    background: rgb(184, 133, 234);
+    height:400vh;
+}
+.div_img{
+    width:100%;
+   }
+.img{
+    width: 80%;
+    border-radius: 20px;
+    }
+    .cards{
+    width: 300px;
+     padding-top: 10px;
+     margin: auto;
+    }
+.card1{
+    border-radius: 10px;
+    visibility: visible;
+}
+.card1:hover{
+    border-radius: 10px;
+    visibility: collapse;
+}
+.h1{
+    color: rgb(147, 108, 108);
+}
+.phon{
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:center;
+    color: rgb(232, 221, 221);
+}
+
+    

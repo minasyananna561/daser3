@@ -1,0 +1,119 @@
+.home1{
+    text-shadow: 4px 8px 5px rgba(0,0,0,0.76);
+    float: left;
+    width: 370px;
+    height: 470px;
+    border-right: 3px solid rgb(101, 99, 99);
+    border-bottom: 3px solid rgb(118, 113, 113);
+    box-shadow: rgb(0 0 0 / 10%) 0 0 17px 0;
+     margin: auto;
+     margin-left: 100px;
+     margin-top: 100px;
+     display: flex;
+     flex-direction: column;
+     border-radius: 20px;
+     justify-items: center;
+     align-items: center;
+     cursor: pointer;
+}
+.h3{
+    font-weight: bold;
+    font-size: 1.7vw;
+}
+.email{
+    width: 90%;
+    height: 40px;
+    background-image: linear-gradient(to left, #bdd16b, #a7ca5e, #90c353, #76bc49, #58b542, #59b941, #5abc41, #5bc040, #7fcf45, #a0de4c, #c1ed55, #e1fb5f);
+    border-radius: 10px;
+    padding-top: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5vw;
+    }
+    .email_drop{
+        width: 333px;
+        position: absolute;
+        background: rgb(113, 205, 99);
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        z-index: 5;
+    }
+    .address{
+    padding-top: 10px;
+    width: 90%;
+    height: 40px;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5vw; 
+    margin-top: 25px;
+    }
+    .address_drop{
+        width: 333px;
+        margin: auto;
+        position: absolute;
+        background: #008793;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;  
+    }
+    .company{
+        padding-top: 10px;
+        width: 90%;
+        height: 40px;
+        background-image: linear-gradient(to right top, #142d52, #535174, #897b96, #bca8bb, #ecdae4);
+        border-radius: 10px;
+        color: white;
+        font-weight: bold;
+        font-size: 1.5vw; 
+        margin-top: 25px;
+        }
+        .company_drop{
+            width: 333px;
+            margin: auto;
+            position: absolute;
+            background: #535174;
+            border-bottom-right-radius: 10px;
+            border-bottom-left-radius: 10px;  
+        }
+        .phon{
+            padding-top: 10px;
+            width: 90%;
+            height: 40px;
+            background-image: radial-gradient(circle, #92923b, #90a636, #86bb35, #70d13e, #3de850);
+            border-radius: 10px;
+            color: white;
+            font-weight: bold;
+            font-size: 1.5vw; 
+            margin-top: 25px;
+            }
+            .phon_drop{
+                width: 333px;
+                margin: auto;
+                position: absolute;
+                background: rgb(64, 138, 32);
+                border-bottom-right-radius: 10px;
+                border-bottom-left-radius: 10px;  
+                z-index: -1;
+            }
+            .website{
+                padding-top: 10px;
+                width: 90%;
+                height: 40px;
+                background-color: rgb(199, 113, 186);
+                border-radius: 10px;
+                color: white;
+                font-weight: bold;
+                font-size: 1.5vw; 
+                margin-top: 25px;
+                }
+                .website_drop{
+                    width: 333px;
+                    margin: auto;
+                    position: absolute;
+                    background: rgb(152, 86, 135);
+                    border-bottom-right-radius: 10px;
+                    border-bottom-left-radius: 10px;  
+                    z-index: -1;
+                }
+    
